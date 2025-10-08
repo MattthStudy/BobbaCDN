@@ -1,0 +1,101 @@
+<script type="d7a84074c3cd0a678aa58524-text/javascript">window.location.replace('/lost');</script><!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0">
+<meta name="robots" content="follow, index">
+<link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+<title>Habbox - Página não encontrada!</title>
+<meta name="description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+<meta name="keywords" content="habbox, habboz, habbo, habbo hotel, habbocity, habbo city, habbo alpha, habboalpha, habboo, rétro, rétro habbo, bobbalive, adohotel, bobbahotel, habbix, jeu en ligne, serveur habbo, communauté, avatar, jeu, cosmic, virtual, world, social network, free, community, avatar, chat, online, teen, roleplaying, join, social, groups, forums, safe, play, games, online, friends, teens, rare, rare meubi, collect, make, collect, contact, meubi, furniture, pets, furnish room, share, expression, badges, hangout, music, celebrity, VIP visits, celebs, mmo, mmorpgs, massive multiplayer, dox , dox hotel, dox hotel, space hotel, space hotel, space, sunnie, sunnie day, sunnieday, habbo, HABBO, habbo hotel, habboo, habbo city, habbocity, cool, virtual world, vip, retro, retro hotel, habbo retro, free, free habbo, holo">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Habbox">
+<meta name="twitter:description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+<meta name="twitter:image" content="https://www.habbox.fr/assets/images/habbox_hotel.png">
+<meta name="twitter:site" content="@habboxfrance">
+<meta name="twitter:url" content="https://www.habbox.fr">
+<meta name="twitter:widgets:csp" content="on">
+<meta property="og:title" content="Habbox Hôtel">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.habbox.fr">
+<meta property="og:image" content="https://www.habbox.fr/assets/images/habbox_hotel.png">
+<meta property="og:description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+<meta property="og:site_name" content="Habbox">
+
+<link rel="stylesheet" href="/assets/css/fonts.min.css">
+<link rel="stylesheet" href="/assets/css/selectric.min.css">
+<link rel="stylesheet" href="/assets/css/circle.min.css?v=5">
+<link rel="stylesheet" href="/assets/css/web.light.min.css?v=1b438133d1f9a51b1eb58b8b1d02aabf">
+<link rel="stylesheet" href="/assets/css/web.responsive.min.css">
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/assets/js/jquery.ui.touch-punch.min.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+</head>
+<body class="index-body">
+<noscript>
+    <style>
+        .loading-container {
+            display: none;
+        }
+    </style>
+</noscript>
+<div class="loading-container">
+<div id="loading-background"></div>
+<div class="loading-content">
+<div class="c100 center">
+<span></span>
+<div class="slice">
+<div class="bar"></div>
+<div class="fill"></div>
+</div>
+</div>
+<div class="loading-bodytext"></div>
+</div>
+</div>
+<div class="page-loading"></div>
+<div class="notifications-container"></div>
+<div class="cookies-accept-container">
+<div class="close-container">&times;</div>
+Habbox utiliza os seus próprios cookies a fim de lhe garantir o melhor serviço com o conteúdo mais apropriado. Se navegar no nosso sítio web, deve aceitar a nossa política de cookies.
+<a href="/help" target="_blank">Leia mais</a>
+</div>
+<div class="index-box error404">
+<div class="index-left">
+<div class="text-center">
+<div class="habbox-logo">
+<a href="/home" target="_self">
+<img src="/assets/images/habbox.gif" class="classic" alt="logo" loading="lazy">
+</a>
+</div>
+<h1>Desculpe, mas a página que procura não existe.</h1>
+<h2>Verifique novamente se está no URL correcto. Se voltar aqui (Bem-vindo de volta!). Depois volte para onde veio com o botão voltar, se quiser!</h2>
+<div class="choices">
+<a href="/home" target="_self" class="rounded-button">Página inicial</a>
+<a href="/ranking/wealth" target="_self" class="rounded-button">Classificações</a>
+</div>
+</div>
+</div>
+</div>
+<script type="d7a84074c3cd0a678aa58524-text/javascript">
+    var Site = {
+        name: "Habbox",
+        url: "https://habbox.fr",
+        game_url: "https://habbox.fr/nitro",
+        figure_url: "https://images.habbox.fr/"
+    }
+    var Configuration = {
+        revision: "2213",
+        cache: "1b438133d1f9a51b1eb58b8b1d02aabf",
+        findretros: false    }
+</script>
+<script src="/assets/js/js.cookie.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/assets/js/jquery.history.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/assets/js/jquery.fullscreen.min.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/assets/js/functions.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/assets/js/web/loading.js?v=1b438133d1f9a51b1eb58b8b1d02aabf" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/assets/js/pagination.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/assets/js/more.min.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="d7a84074c3cd0a678aa58524-text/javascript"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="d7a84074c3cd0a678aa58524-|49" defer></script></body>
+</html>

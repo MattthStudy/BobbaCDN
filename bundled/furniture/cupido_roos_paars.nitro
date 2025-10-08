@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark" class="h-100">
+  <head>
+    <title>MoonHotel</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="5M9d2-AyqC0UojIrdwXnxJPzbYUChJNsuomL222OYd5renypqdf4y20aFlWiv8IEVpH-s93cDBkHB4AmlptTSw" />
+    
+    <link rel="stylesheet" href="/assets/application-cf6106b1de4bd46d813cc71aa953a9a308d08130c6ec434f5526bcf702c5b078.css" data-turbo-track="reload" />
+    
+    <script src="/assets/application-bb41eeb16b02a1612bf12fb99526af27ab0c6e1be3f1850628e204bb8142460a.js" data-turbo-track="reload" defer="defer"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+  <body class="h-100">
+      <div class="d-flex justify-content-center align-items-center h-100">
+    <div class="moon-login_img-left"></div>
+<div class="moon-login_img-right"></div>
+
+<div class="moon-login_card" data-controller="login">
+  <div class="moon-login_player-count">
+    1 Speler in het hotel!
+  </div>
+
+  <img class="moon-login_image" alt="Logo" src="/assets/logo/MoonHotel_Logo-f8ad2be2f018d23ecc449dc8f1e76b6c825b251fa809b404dba237809aabf8a8.png" />
+
+  <form class="moon-auth_form moon-login_form" action="/login" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aTsRERoyQ2sHES-opdAtgOnDmljpK4Wd_qASJ7P3X63sE-24Bw1Yh7i4hEgosBcW18wDdp3yK7a6C9qX9rq-mQ" autocomplete="off" />
+      <div class="alert alert-info mb-4" role="alert">
+    Welcome from Habbox.fr!
+  </div>
+
+
+    <div class="moon-login_input-group input-group mb-4">
+      <span class="input-group-text">
+        <img alt="Username icon" class="moon-login_icon" src="/assets/login_username_icon-263f64639edc75a2244f657fa6a1570d9e128681334a9a8d6edf39bc511ef6ba.png" />
+      </span>
+      <input class="form-control" placeholder="Gebruikersnaam..." data-action="input-&gt;login#query" type="text" name="cms_user[email]" id="cms_user_email" />
+      <div class="avatar">
+        <img src="" alt="" data-login-target="figure"/>
+      </div>
+    </div>
+
+    <div class="moon-login_input-group input-group mb-1">
+      <span class="input-group-text">
+        <img alt="Password icon" class="moon-login_icon" src="/assets/login_password_icon-348a39e2f86a38fb818da0aea7d8453a9265acf5d7ac7de066875701565b14a9.png" />
+      </span>
+      <input class="form-control" placeholder="Wachtwoord..." type="password" name="cms_user[password]" id="cms_user_password" />
+    </div>
+
+    <div class="moon-login_actions mt-4">
+      <a class="btn btn-primary" href="/register">Account aanmaken</a>
+      <input type="submit" name="commit" value="Login" class="btn btn-primary moon-login_action-register" data-disable-with="Create Cms user" />
+    </div>
+
+    <div class="text-center pt-3">
+      <span class="moon-footer-text">
+      &copy; 2024 MoonHotel - Design by <a href="https://twitter.com/AtlantaCreates" rel="nofollow" target="_blank">Atlanta</a>
+      </span>
+    </div>
+</form></div>
+  </div>
+
+  </body>
+</html>

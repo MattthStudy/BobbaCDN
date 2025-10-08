@@ -1,1 +1,1 @@
-{"roomitemtypes": {"furnitype": [{"id": 1583031242, "classname": "ducket_c25_autumntable", "revision": 0, "category": "unknown", "defaultdir": 0, "xdim": 46, "ydim": 7, "partcolors": {"color": []}, "name": "Ducket C25 Autumntable", "description": "", "adurl": "", "offerid": 1583031242, "buyout": false, "rentofferid": -1, "rentbuyout": false, "bc": false, "excludeddynamic": false, "customparams": "", "specialtype": 1, "canstandon": false, "cansiton": false, "canlayon": false, "furniline": "null", "environment": "", "rare": false}]}}
+{"roomitemtypes":{"furnitype":[]}}
